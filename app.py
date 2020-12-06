@@ -5,7 +5,7 @@ import streamlit as st
 from streamlit_drawable_canvas import st_canvas
 import json
 import onnxruntime
-
+import wget
 
 #MODEL_DIR = os.path.join(os.path.dirname(__file__), 'model')
 #if not os.path.isdir(MODEL_DIR):
