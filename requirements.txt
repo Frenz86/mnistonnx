@@ -4,4 +4,3 @@ opencv-python
 streamlit==0.72.0
 streamlit_drawable_canvas==0.4.0
 onnxruntime
-json
