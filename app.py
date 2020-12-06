@@ -35,9 +35,9 @@ def main():
     ################ load logo from web #########################
     # st.markdown('<style>body{color: White; background-color: DarkSlateGrey}</style>', unsafe_allow_html=True)
 
-    st.title('My Digit Recognizer')
+    st.title('Riconoscitore di numero')
     st.markdown('''
-    Try to write a digit!
+    Disegna un numero!
     ''')
 
     # data = np.random.rand(28,28)
