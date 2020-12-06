@@ -1,4 +1,3 @@
-Python==3.8.5
 numpy
 matplotlib
 opencv-contrib-python-headless
